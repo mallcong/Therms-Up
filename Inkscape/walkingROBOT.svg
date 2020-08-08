@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="walkingROBOT.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   width="220mm"
+   height="220mm"
+   viewBox="0 0 220 220"
+   version="1.1"
+   id="svg103234">
+  <defs
+     id="defs103228" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="370"
+     inkscape:window-x="-9"
+     inkscape:window-height="894"
+     inkscape:window-width="1708"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="svg103234"
+     inkscape:document-units="mm"
+     inkscape:cy="509.06656"
+     inkscape:cx="357.13244"
+     inkscape:zoom="1.4142136"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata103231">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1" />
+  <g
+     gcodetools="Gcodetools orientation group"
+     id="g103820">
+    <g
+       gcodetools="Gcodetools orientation point (2 points)"
+       id="g103812">
+      <path
+         style="stroke:none;fill:#000000;"
+         d="m 0.0,220.0 2.9375,-6.343750000001 0.8125,1.90625 6.843748640396,-6.84374864039 0,0 0.6875,0.6875 -6.84375,6.84375 1.90625,0.812500000001 z z"
+         gcodetools="Gcodetools orientation point arrow"
+         id="path103808" />
+      <text
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;"
+         xml:space="preserve"
+         x="10.0"
+         y="210.0"
+         gcodetools="Gcodetools orientation point text"
+         id="text103810">(0.0; 0.0; 0.0)</text>
+    </g>
+    <g
+       gcodetools="Gcodetools orientation point (2 points)"
+       id="g103818">
+      <path
+         style="stroke:none;fill:#000000;"
+         d="m 100.0,220.0 2.9375,-6.343750000001 0.8125,1.90625 6.843748640396,-6.84374864039 0,0 0.6875,0.6875 -6.84375,6.84375 1.90625,0.812500000001 z z"
+         gcodetools="Gcodetools orientation point arrow"
+         id="path103814" />
+      <text
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;"
+         xml:space="preserve"
+         x="110.0"
+         y="210.0"
+         gcodetools="Gcodetools orientation point text"
+         id="text103816">(100.0; 0.0; 0.0)</text>
+    </g>
+  </g>
+  <defs
+     id="defs103879">
+    <marker
+       id="DrawCurveMarker"
+       orient="auto"
+       refX="-8"
+       refY="-2.41063"
+       style="overflow:visible">
+      <path
+         d="m -6.55552,-2.41063 0,0 L -13.11104,0 c 1.0473,-1.42323 1.04126,-3.37047 0,-4.82126"
+         style="fill:#000044; fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path103876" />
+    </marker>
+  </defs>
+  <defs
+     id="defs103884">
+    <marker
+       id="DrawCurveMarker_r"
+       orient="auto"
+       refX="8"
+       refY="-2.41063"
+       style="overflow:visible">
+      <path
+         d="m 6.55552,-2.41063 0,0 L 13.11104,0 c -1.0473,-1.42323 -1.04126,-3.37047 0,-4.82126"
+         style="fill:#000044; fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path103881" />
+    </marker>
+  </defs>
+  <g
+     id="g105607" />
+  <path
+     id="path106607"
+     d="m 64.613766,188.11875 v -28.82019 h -4.831132 c 0,0 -9.297668,22.42562 -19.32452,23.15611 C 31.986075,183.0719 21.639561,173.95515 21.466776,165.46242 21.251103,154.86168 44.2897,143.30585 44.2897,143.30585 l 0.333181,-24.32224 c 0,0 -23.975259,-13.18827 -23.489287,-24.488827 0.311074,-7.23357 9.09354,-14.665109 16.325887,-14.326799 11.065311,0.517604 22.822924,24.155646 22.822924,24.155646 l 17.325434,0.16659 c 0,0 7.222728,-23.153179 17.158841,-24.988598 7.69466,-1.421373 18.45333,5.551064 19.32452,13.327255 1.1595,10.349653 -21.15702,22.989513 -21.15702,22.989513 l 0.16659,27.32087 c 0,0 21.97035,9.05733 23.3227,18.99134 1.01007,7.41971 -5.5587,17.43756 -12.99408,18.32498 -10.74756,1.28273 -24.488823,-21.32361 -24.488823,-21.32361 h -5.830676 v 28.32042"
+     style="fill:none;stroke:#000000;stroke-width:0.0978533px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     id="path106605"
+     d="m 57.616954,130.54712 11.994532,-5.96601 10.994986,6.36373 -11.661353,6.36375 z"
+     style="fill:none;stroke:#000000;stroke-width:0.0978533px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     id="path106603"
+     d="m 57.616953,130.54712 22.989519,0.39772"
+     style="fill:none;stroke:#000000;stroke-width:0.0978533px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     id="path106601"
+     d="M 68.945119,137.30859 69.61148,124.58111"
+     style="fill:none;stroke:#000000;stroke-width:0.0978533px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     id="path106599"
+     d="m 45.821861,149.30786 7.236013,3.22917 1.950795,6.53955 -7.257968,-2.969 z"
+     style="fill:none;stroke:#000000;stroke-width:0.0978533px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     id="path106597"
+     d="m 45.821861,149.30786 9.186808,9.76872"
+     style="fill:none;stroke:#000000;stroke-width:0.0978533px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     id="path106595"
+     d="m 47.750701,156.10758 5.307173,-3.57056"
+     style="fill:none;stroke:#000000;stroke-width:0.0978533px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     id="path106593"
+     d="m 94.95882,148.84435 -2.92952,7.36243 -6.45401,2.21748 2.6687,-7.37369 z"
+     style="fill:none;stroke:#000000;stroke-width:0.0978533px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     id="path106591"
+     d="m 94.95882,148.84435 -9.38353,9.57991"
+     style="fill:none;stroke:#000000;stroke-width:0.0978533px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     id="path106589"
+     d="m 88.24399,151.05057 3.78532,5.15621"
+     style="fill:none;stroke:#000000;stroke-width:0.0978533px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     id="path106587"
+     d="m 55.319589,106.18827 -2.727255,6.22382 -6.008394,1.87455 2.484439,-6.23334 z"
+     style="fill:none;stroke:#000000;stroke-width:0.0978533px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     id="path106585"
+     d="m 55.319589,106.18827 -8.735649,8.09837"
+     style="fill:none;stroke:#000000;stroke-width:0.0978533px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     id="path106583"
+     d="m 49.068379,108.0533 3.52396,4.35879"
+     style="fill:none;stroke:#000000;stroke-width:0.0978533px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     id="path106581"
+     d="m 79.555159,105.94303 7.608511,2.21314 2.82361,6.21278 -7.594807,-1.95242 z"
+     style="fill:none;stroke:#000000;stroke-width:0.0978533px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     id="path106579"
+     d="m 79.555159,105.94303 10.432121,8.42592"
+     style="fill:none;stroke:#000000;stroke-width:0.0978533px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     id="path105678-5-9"
+     d="m 82.392473,112.41653 4.771197,-4.26036"
+     style="fill:none;stroke:#000000;stroke-width:0.0978533px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+</svg>
