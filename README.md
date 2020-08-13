@@ -42,5 +42,6 @@ Create G-code using extra plug-in (to save time than using already installed gco
 https://jtechphotonics.com/?page_id=2012
  - if you use the J-Tech Laser tool for generating the G-code, you can modify it to automaticly include the header and footer command shown below
  - by modifying the default setup of 'laser.py' file in [Program Files\Inkscape\share\inkscape\extensions] (might be varied depending on your computer env.) as shown in below
+ 
  ![inkscape_setup](https://user-images.githubusercontent.com/3894400/90145261-b5aeaa80-ddba-11ea-9559-1bb579069ebc.JPG)
  
