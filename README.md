@@ -26,10 +26,14 @@ G21  ;Set unit to [mm]
 # Footer
 
 G0 Z20
+
 G28 X0 Y0
+
 M18
 
 M106 S0 ;Turn-off fan
+
 M104 S0 ;Turn-off hotend
+
 M140 S0 ;Turn-off bed
 
