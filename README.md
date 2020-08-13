@@ -35,3 +35,11 @@ M140 S0 ;Turn-off bed
 # Reference for 3D Printer Set Up
 ![charecterization](https://user-images.githubusercontent.com/3894400/90126011-edf3c000-dd9d-11ea-91d6-150efb7180bd.png)
 
+# Useful Resources
+Inkscape: https://inkscape.org/
+Create Hatch Fill in Inkscape using Axidraw plug-in (download here): https://github.com/evil-mad/axidraw
+Create G-code using extra plug-in (to save time than using already installed gcode tool extension) - J-Tech Laser tool Plug-in:
+https://jtechphotonics.com/?page_id=2012
+ - if you use the J-Tech Laser tool for generating the G-code, you can modify it to automaticly include the header and footer command shown below
+ - by modifying 'laser.py' file in [Program Files\Inkscape\share\inkscape\extensions] (might be varied depending on your computer env.)
+ - 
