@@ -44,3 +44,7 @@ M104 S0 ;Turn-off hotend
 
 M140 S0 ;Turn-off bed
 
+
+# Reference for 3D Printer Set Up
+![charecterization](https://user-images.githubusercontent.com/3894400/90126011-edf3c000-dd9d-11ea-91d6-150efb7180bd.png)
+
