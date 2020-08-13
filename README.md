@@ -9,6 +9,7 @@ You can find detailed information for the each command from here
 https://reprap.org/wiki/G-code
 
 # Header
+```G-CODE
 G1 Z5.5 F1200; Linear move of Z height to be 5.5mm, with speed 1200mm/min
 
 M104 S160 ; set up the extruder temperature by changing the number next to the 'S'
@@ -28,7 +29,7 @@ G90 E0 ; Set to Absolute Positioning
 G0 Z20 ; Rapid move of Z height to be 20mm from the bed
 
 G21  ;Set unit to [mm]
-
+```
 
 # Footer
 
