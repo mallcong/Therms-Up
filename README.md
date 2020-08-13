@@ -12,14 +12,21 @@ https://reprap.org/wiki/G-code
 G1 Z5.5 F1200; Linear move of Z height to be 5.5mm, with speed 1200mm/min
 
 M104 S160 ; set up the extruder temperature by changing the number next to the 'S'
+
 M105
+
 M109 S160 ; set up the extruder temperature by changing the number next to the 'S', and WAIT
+
 M204 P500.00 R1000.00 T500.00 ;Setup Print/Retract/Travel acceleration
+
 M205 X8.00 Y8.00 Z0.40 E5.00 ;Setup Jerk
 
 G28 ; Move to origin(Home)
+
 G90 E0 ; Set to Absolute Positioning
+
 G0 Z20 ; Rapid move of Z height to be 20mm from the bed
+
 G21  ;Set unit to [mm]
 
 
