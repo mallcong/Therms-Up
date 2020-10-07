@@ -2,7 +2,9 @@
 1. Prepare a bag of chips that you just finished :)
 2. Cut the seam to unfold the bag, and clean the inside by soap and water. Let it dry.
 3. Draw origami patterns (origami patterns will be given or patrons can come up with their own ideas) on the unfolded sheet of the bag and cut.
+
 ![process](https://user-images.githubusercontent.com/3894400/95316113-5bb7f600-08ce-11eb-9a29-bf0603292931.JPG)
+
 4. Heat up mini iron (or soldering iron) 
 5. Fold the sheet of the bag following the origami pattern you just drew and seal it by the heated-up iron with tube/straw inserted on the edge. 
 6. Hot glue around the tube/straw so that air cannot leak. 
