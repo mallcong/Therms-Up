@@ -7,7 +7,7 @@
 
 4. Heat up mini iron (or soldering iron) 
 5. Fold the sheet of the bag following the origami pattern you just drew and seal it by the heated-up iron with tube/straw inserted on the edge. 
-6. Hot glue around the tube/straw so that air cannot leak. 
+6. Hot glue/or tape around the tube/straw so that air cannot leak. 
 7. Blow through the straw and have fun with the shape-changing robots!
 
 ![12-03-2019](https://user-images.githubusercontent.com/3894400/95315886-0c71c580-08ce-11eb-9389-2fa96ea7ab97.gif)
