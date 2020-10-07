@@ -1,4 +1,7 @@
 ## Simple starters for folding
+
+![process1](https://user-images.githubusercontent.com/3894400/95316590-016b6500-08cf-11eb-9252-c94cac6d7fe8.JPG)
+
 1. Prepare a bag of chips that you just finished :)
 2. Cut the seam to unfold the bag, and clean the inside by soap and water. Let it dry.
 3. Draw origami patterns (origami patterns will be given or patrons can come up with their own ideas) on the unfolded sheet of the bag and cut.
