@@ -1,6 +1,6 @@
 ## Simple starters for manual heat-sealing using a iron and folding
 
-Due to the anonymizing process, *.ai, *.pdf file format won't be visible. So please find the *.JPG file instead
+(Due to the anonymizing process, *.ai, *.pdf file format won't be visible. So please find the *.JPG file for the template instead)
 
 ![process1](https://user-images.githubusercontent.com/3894400/95316590-016b6500-08cf-11eb-9252-c94cac6d7fe8.JPG)
 
