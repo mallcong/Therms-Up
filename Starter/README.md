@@ -1,4 +1,4 @@
-## Simple starters for folding
+## Simple starters for manual heat-sealing using a iron and folding
 
 ![process1](https://user-images.githubusercontent.com/3894400/95316590-016b6500-08cf-11eb-9252-c94cac6d7fe8.JPG)
 
