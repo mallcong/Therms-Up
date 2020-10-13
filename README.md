@@ -35,6 +35,9 @@ M140 S0 ;Turn-off bed
 # Reference for 3D Printer Set Up
 ![charecterization](https://user-images.githubusercontent.com/3894400/90126011-edf3c000-dd9d-11ea-91d6-150efb7180bd.png)
 
+Putting a cardboard box underneath plastic bags/films is helpful for providing a damper with enough force to sandwisching the material when the extruder runs through the path.
+Aluminium foil is not necessary for the most of plastig bags like chip bag, shopping/shipping bag, but for very thin plastic material like Zip-loc and bubble wrap since it is helpful for preventing any slice by extruder and also for distributing the extruder heat evenly. 
+
 # Useful Resources
 Inkscape: https://inkscape.org/
 Create Hatch Fill in Inkscape using Axidraw plug-in (download here): https://github.com/evil-mad/axidraw
