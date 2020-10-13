@@ -48,3 +48,7 @@ https://jtechphotonics.com/?page_id=2012
  
  ![inkscape_setup](https://user-images.githubusercontent.com/3894400/90145261-b5aeaa80-ddba-11ea-9559-1bb579069ebc.JPG)
  
+ 
+# Click the thumbnail below to watch a video
+
+[![Watch the video](https://img.youtube.com/vi/VF86Q81Hd6I/hqdefault.jpg)](https://youtu.be/VF86Q81Hd6I)
