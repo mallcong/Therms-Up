@@ -10,5 +10,10 @@ This can be done either by manually or getting a little help from a 3D printer t
 1. If you are doing manually, printout the Kresling.pdf file uploaded in this folder in any scale you want (bigger easier)
 2. Place the printed pattern on a piece of plastic bag (one layer) and have a ruler and a ball-point pen with you
 3. First, we will transfer a mountain fold path of the pattern on the plastic bag. The bold straight line of the print-out indicates the mountain fold.
-  so, put a ruller on top of the paper, and follow all the mountain fold line path with the pen so that you can make a emobossed line transferred to the plastic bag underneath.
+  so, put a ruller on top of the paper, and trace all the mountain fold line path with the pen so that you can make a emobossed line transferred to the plastic bag underneath.
+4. Flip the plastic bag and place the print-out on top flipped as well
+5. Now, trace all the valley line with the pen 
+6. You have a piece of plastic bag with all the folding pattern traced!
+
+
  
