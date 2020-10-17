@@ -8,3 +8,6 @@ and the testing sample. We forced the air to pump in the sample until we find an
 The result is summarized in the Table below.
 Each inflatable material result were averaged by 5. 
 The retort food package’s heat-sealing has the highest strength and the air leakage happened on the hot-glued air channel tubing area.
+
+
+![result](https://user-images.githubusercontent.com/3894400/96337566-2461fa00-10c3-11eb-868b-5ae01a676736.png)
