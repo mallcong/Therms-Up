@@ -17,3 +17,7 @@
 
 ![12-03-2019](https://user-images.githubusercontent.com/3894400/95315886-0c71c580-08ce-11eb-9389-2fa96ea7ab97.gif)
 ![12-03-2019-2](https://user-images.githubusercontent.com/3894400/95315894-0da2f280-08ce-11eb-9532-3a14a8d060e0.gif)
+
+## Alternative simple method for heat-sealing the diamond fold
+
+![alternative](https://user-images.githubusercontent.com/3894400/96339531-562d8d80-10d0-11eb-8418-81ec83274f64.JPG)
