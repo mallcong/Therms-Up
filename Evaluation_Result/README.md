@@ -11,3 +11,6 @@ The retort food package’s heat-sealing has the highest strength and the air le
 
 
 ![result](https://user-images.githubusercontent.com/3894400/96337566-2461fa00-10c3-11eb-868b-5ae01a676736.png)
+
+Result of pressure endurance test and inflatable material samples. 
+Each material's result were averaged by 5. Sample-(g) indicates the bubble wrap is heat-sealed with itself, while (h) is heat-sealed with HDPE shopping bag.
